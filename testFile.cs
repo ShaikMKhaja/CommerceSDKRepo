@@ -10,5 +10,6 @@ name space MS_TestFile
     {
       // Comment
       // Comment 2
+      // Comment 3
     }
 }
