@@ -9,5 +9,6 @@ name space MS_TestFile
     public class testfile()
     {
       // Comment
+      // Comment 2
     }
 }
